@@ -532,7 +532,7 @@ const monasteriesmap = [
   },
   { 
     name: "Lingdum (Ranka) Monastery", lat: 27.3347, lng: 88.6416,
-    img: "./img/Lingdum(Ranka)Monastery.jpg",
+    img: "./img/LingdumRankaMonastery.jpg",
     details: "A relatively new but very large monastery near Gangtok."
   },
   { 
