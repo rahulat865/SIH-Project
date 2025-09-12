@@ -530,11 +530,11 @@ const monasteriesmap = [
    img: "./img/BongtangMonastery.jpg",
    details: "Also known as Gonjang Monastery, it was established in 1981. It follows the Nyingma school of Tibetan Buddhism and is located near Tashi Viewpoint in Gangtok."
   },
-  { 
-    name: "Lingdum (Ranka) Monastery", lat: 27.3347, lng: 88.6416,
-    img: "./img/LingdumRankaMonastery.jpg",
-    details: "A relatively new but very large monastery near Gangtok."
-  },
+  // { 
+  //   name: "Lingdum (Ranka) Monastery", lat: 27.3347, lng: 88.6416,
+  //   img: "./img/LingdumRankaMonastery.jpg",
+  //   details: "A relatively new but very large monastery near Gangtok."
+  // },
   { 
     name: "Gonjang Monastery", lat: 27.36908, lng: 88.613314,
     img: "./img/GonjangMonastery.jpeg",
